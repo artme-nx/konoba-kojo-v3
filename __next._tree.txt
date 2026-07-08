@@ -1,0 +1,6 @@
+:HL["/konoba-kojo-v3/_next/static/chunks/2pdmwqag2vx3_.css","style"]
+:HL["/konoba-kojo-v3/_next/static/media/7ebf22b5a21034f8-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-kojo-v3/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/konoba-kojo-v3/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.unsplash.com/photo-1782919850858-6d03597b3312?auto=format&fit=crop&w=1900&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"9m18A69M7Ff6i2QHevs1C"}
